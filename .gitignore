@@ -19,6 +19,7 @@ dataset/
 mnist_x
 mnist_y
 style_transfer
+cifar10
 
 # 虚拟环境
 venv/
