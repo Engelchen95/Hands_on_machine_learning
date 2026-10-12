@@ -20,6 +20,7 @@ mnist_x
 mnist_y
 style_transfer
 cifar10
+titanic
 
 # 虚拟环境
 venv/
