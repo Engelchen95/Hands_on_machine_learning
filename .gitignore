@@ -15,12 +15,14 @@ __pycache__/
 *.tar
 *.rar
 *.csv
+*.jpg
 dataset/
 mnist_x
 mnist_y
 style_transfer
 cifar10
 titanic
+20newsgroups
 
 # 虚拟环境
 venv/
