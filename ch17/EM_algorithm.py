@@ -1,4 +1,4 @@
-# %% GMM拟合数据分布
+# %% 用EM算法实现GMM拟合数据分布
 import numpy as np
 import matplotlib.pyplot as plt
 
